@@ -1,8 +1,6 @@
-# Simple Portfolio Version
+# Web Portfolio 
 
 This project is a simple yet elegant portfolio webpage built using HTML and CSS. 
-
-<img width="1417" alt="Screenshot 2025-01-08 at 6 43 51 PM" src="https://github.com/user-attachments/assets/ddb46da8-02ed-4ce5-99e0-b1ce8928ac3c" />
 
 ## Live Demo
 
