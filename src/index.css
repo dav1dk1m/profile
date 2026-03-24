@@ -140,22 +140,47 @@ ul {
 }
 
 @media (max-width: 600px) {
+  body {
+    padding: 15px;
+  }
+  
   .box {
-    padding: 40px 20px;
-    width: 85%;
+    padding: 30px 20px;
+    width: 100%;
+    margin: 15px 0;
+    box-sizing: border-box;
   }
   
   .box-img {
-    width: 150px;
-    height: 150px;
+    width: 130px;
+    height: 130px;
+    margin-bottom: 15px;
+    border-width: 3px;
   }
   
   .box h1 {
-    font-size: 28px;
+    font-size: 26px;
+    letter-spacing: 1px;
+  }
+
+  .box h5 {
+    font-size: 15px;
+    margin-bottom: 20px;
   }
   
   .box p {
     font-size: 14px;
+    line-height: 1.6;
     text-align: left;
+    margin-bottom: 20px;
+  }
+
+  ul {
+    gap: 15px;
+  }
+
+  .box li a {
+    font-size: 26px;
+    padding: 10px;
   }
 }
